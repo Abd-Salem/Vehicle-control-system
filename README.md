@@ -6,11 +6,11 @@ I will mention my key features which are :
 - pointers to access structures.
 
 Manage vehicle control system :
-1- Turn vehicle engine on or off.
-2- Control vehicle temperature using AC.
-3- control engine temperature using engine temperature controller.
-4- control car speed according to traffic color.
-5- Set temperature of vehicle and temperature of engine on specific speed using required equation.
+- Turn vehicle engine on or off.
+- Control vehicle temperature using AC.
+- control engine temperature using engine temperature controller.
+- control car speed according to traffic color.
+- Set temperature of vehicle and temperature of engine on specific speed using required equation.
 
 Notes:
 -sensor readings will be input from user.
