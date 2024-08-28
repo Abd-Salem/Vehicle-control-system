@@ -12,7 +12,7 @@ Manage vehicle control system :
 - control car speed according to traffic color.
 - Set temperature of vehicle and temperature of engine on specific speed using required equation.
 
-Notes:
+Notes:   
 -sensor readings will be input from user.  
 -If engine temperature controller presents so make #define WITh_ENGINE_TEMP_CONTROLLER  TRUE
 
